@@ -1,0 +1,20 @@
+{
+  "name": "profanity",
+  "version": "1.0.0",
+  "description": "a profanity detector for inputs",
+  "homepage": "https://github.com/Nikolas-Vardeberg/profanity#readme",
+  "bugs": {
+    "url": "https://github.com/Nikolas-Vardeberg/profanity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikolas-Vardeberg/profanity.git"
+  },
+  "license": "ISC",
+  "author": "Nikolas Vardeberg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
